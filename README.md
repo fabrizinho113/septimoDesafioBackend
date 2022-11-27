@@ -1,3 +1,3 @@
 # CoderHouse Backend
 
-Sexto desafio de CoderHouse hecho con Handlebars
+Septimo desafio del curso Backend en CoderHouse
